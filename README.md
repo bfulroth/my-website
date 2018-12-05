@@ -4,5 +4,6 @@ This is a really awsome website
 
 Updates made on master on Github before rebase
 
-## Repo Purpose
-This file is just a readme file.
+## Purpose
+The purpose of this file is to show
+how Git and GitHub work togeather.
